@@ -1,0 +1,35 @@
+# The URL the site will be built for
+base_url = "https://www.kentonk.com"
+theme = "apollo"
+title = "Kenton Kwok"
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+taxonomies = [{ name = "tags" }]
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+[markdown]
+
+[markdown.highlighting]
+theme = "catppuccin-mocha"
+
+[extra]
+# Put all your custom variables here
+theme = "light"
+socials = [
+  { name = "instagram", url = "https://www.instagram.com/fizzyphys/", icon = "instagram" },
+  { name = "github", url = "https://github.com/kwokkenton", icon = "github" },
+  { name = "linkedin", url="https://www.linkedin.com/in/kentonkwok/", icon="linkedin" },
+]
+menu = [
+  { name = "|CV", url = "/cv", weight = 2 },
+  { name = "|work and research", url = "/projects", weight = 4 },
+  { name = "|outreach", url = "/outreach", weight = 3 },
+]
+[extra.analytics]
+enabled = false
+
+[extra.taxonomies]
+sort_by = "page_count"         # e.g. name, page_count
+reverse = true
