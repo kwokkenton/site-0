@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://www.kentonk.com"
+base_url = "https://kwokkenton.github.io/site-0/"
 theme = "apollo"
 title = "Kenton Kwok"
 # Whether to automatically compile all Sass files in the sass directory
