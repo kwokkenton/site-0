@@ -42,7 +42,7 @@ If our interests align, I'd love to work with you and please feel free to contac
 
 <div class="image-grid">
     <a href="https://www.instagram.com/p/DZSYDyLjCN4/?img_index=1">
-    <img src="outreach/biop.png" alt="Biophysics vs biomedical physics"><p>Demystification of two similar fields</p></a>
+    <img src="/outreach/biop.png" alt="Biophysics vs biomedical physics"><p>Demystification of two similar fields</p></a>
     <a href="https://www.instagram.com/p/DYsH67jDFya/?img_index=1"><img src="/outreach/joys_pains.png" alt="Joys and pains of interdisciplinary research"><p>What it feels like to not be in a 'pure' field.</p></a>
     <a href="https://www.instagram.com/p/DbsZOMesGzV/"><img src="/outreach/moon.png" alt="Diffractive glasses!"><p>Diffractive glasses!</p></a>
     <a href="https://www.instagram.com/p/DcgLeWvsMNN/"><img src="/outreach/scanner.png" alt="Joys and pains of interdisciplinary research"><p>X-ray Computed Tomography</p></a>
